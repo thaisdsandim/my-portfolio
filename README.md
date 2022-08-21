@@ -10,8 +10,7 @@
 
 > Project developed to divulge my work and skills.
 
-![Landing Page](https://user-images.githubusercontent.com/96362469/185247043-3f6fc17e-6501-4843-ac0a-05084ad768d7.png)
-![Admin Page](https://user-images.githubusercontent.com/96362469/185247277-d4135dac-9b02-458d-b8f2-eb1656e382aa.png)
+<img src="assets/img/portfolio.png"/>
 
 ## :hammer: Functionalities
 
@@ -26,7 +25,9 @@ You can access the page [here](https://thaisdsandim.github.io/my-portfolio/).
 
 ## ✔️ Tools used
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </p>
+<p align="left"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> 
+</p>
 
 
 ## 👩 About me
