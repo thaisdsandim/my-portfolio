@@ -1698,7 +1698,7 @@ html {
 
 .border-primary {
   --tw-border-opacity: 1;
-  border-color: #ff3535;
+  border-color: #FF1616;
 }
 
 .border-grey-40 {
@@ -1746,7 +1746,7 @@ html {
 
 .bg-primary {
   --tw-bg-opacity: 1;
-  background-color: rgb(85 64 175 / var(--tw-bg-opacity));
+  background-color: #FF5757;
 }
 
 .bg-grey-50 {
@@ -1776,7 +1776,7 @@ html {
 
 .bg-yellow {
   --tw-bg-opacity: 1;
-  background-color: rgb(249 231 28 / var(--tw-bg-opacity));
+  background-color: white;
 }
 
 .bg-opacity-70 {
@@ -2077,12 +2077,12 @@ html {
 
 .text-yellow {
   --tw-text-opacity: 1;
-  color: rgb(249 231 28 / var(--tw-text-opacity));
+  color: #FF1616;
 }
 
 .text-primary {
   --tw-text-opacity: 1;
-  color: rgb(85 64 175 / var(--tw-text-opacity));
+  color: #FF5757;
 }
 
 .text-black {
@@ -2209,7 +2209,7 @@ html {
 
 .hover\:bg-primary:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(85 64 175 / var(--tw-bg-opacity));
+  background-color: #FF5757;
 }
 
 .hover\:bg-grey-20:hover {
@@ -2219,7 +2219,7 @@ html {
 
 .hover\:text-yellow:hover {
   --tw-text-opacity: 1;
-  color: rgb(249 231 28 / var(--tw-text-opacity));
+  color: #FF1616;
 }
 
 .hover\:text-white:hover {
@@ -2299,12 +2299,12 @@ html {
 
 .group:hover .group-hover\:bg-yellow {
   --tw-bg-opacity: 1;
-  background-color: rgb(249 231 28 / var(--tw-bg-opacity));
+  background-color: #FF1616;
 }
 
 .group:hover .group-hover\:text-yellow {
   --tw-text-opacity: 1;
-  color: rgb(249 231 28 / var(--tw-text-opacity));
+  color: #FFFFFF;
 }
 
 .group:hover .group-hover\:text-white {
